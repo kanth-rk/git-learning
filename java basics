@@ -1,0 +1,53 @@
+
+//ABOUT JAVA
+
+// java is a high level object oriented,robust,secure,programming language
+
+//well know for creating enterprise applications
+
+//by using this we can build web,desktop,mobile,cloud based applications
+
+//developed by james -gasolin at sun micro -system-in 1995 
+
+// Features
+
+/*simple
+ * obj -oriented
+ * secure
+ * multi-threaded
+ * robust -exception handling and memory management make more stronger
+ * platform-independent
+ * 
+ * */
+
+//Editions
+//SE - EE- ME
+
+//Architecture
+/*
+ * by default in our HW->OS- we have jvm installed without jvm we cant run java code
+ * JAVA is platform independent -it means it will run an any machine so if you have jvm in our OS it will Run
+ * JVM IS platform-dependent for every machine there are different jvm's
+ * 
+ * 
+ * source code (.java) -> compiler (.javac)-> byte code > (.class) -> Machine code
+ * 
+ * JDK = JVM+JRE
+ * JVM = classloader +bytecode verfiers +intrepreter + JIT
+ * JRE = JVM+ other runtime  Libraries+packages
+ * 
+ * 
+ * 
+ * 
+ * 
+ * */
+//
+
+class intro {
+
+	public static void main(String[] args) {
+
+		System.out.println("hello world");
+	}
+	}
+
